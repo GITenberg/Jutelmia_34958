@@ -1,0 +1,34 @@
+_repo: Jutelmia_34958
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schrowe, Uno von
+    gutenberg_agent_id: '37346'
+    url: http://www.gutenberg.org/2009/agents/37346
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dilling, Lars
+    alias: Dilling, L.
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '37345'
+    url: http://www.gutenberg.org/2009/agents/37345
+description: ''
+gutenberg_issued: '2011-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34958'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+tableOfContents: Ikävä juttu -- Puhdas lippu -- Vehreitä seppeleitä -- Katonpanian
+  äiti -- Vanha Gunhild.
+title: Jutelmia
+url: http://www.gutenberg.org/ebooks/34958
